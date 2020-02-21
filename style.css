@@ -1,0 +1,145 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 900px;
+    padding-bottom: 70px;
+}
+.header-image img{
+    height: 50%;
+    width: 100%;
+}
+.header-text{
+    padding-top: 200px;
+}
+.header-text h1{
+    font-weight: bold;
+    font-size:50px;
+    color:tomato;
+}
+.header-text h2{
+    font-size: 48px;
+    font-weight: normal;
+
+}
+.header-text p{
+    font-size: 20px;
+    color:dimgray;
+    margin-bottom: 40px;
+}
+.header-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, lightSalmon, tomato);
+    padding:10px 30px;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+    padding-bottom: 70px;
+}
+.biography-text{
+    padding-top: 200px;
+}
+.biography img{
+    width:100%;
+}
+.biography-text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.biography-text p{
+    font-size: 20px;
+    color:dimgray;
+    margin-bottom: 40px;
+}
+.biography-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, lightSalmon, tomato);
+    padding:10px 30px;
+    color: white;
+    border-radius: 5px;
+    
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height:700px;
+    padding-bottom: 70px;
+}
+.latest-work h1{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 120px;
+}
+.latest-img{
+    width: 25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.latest-work img{
+    width:100%;
+}
+footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height:600px;
+    padding-bottom: 70px;
+    padding-top: 120px;
+    
+}
+.footer-wrapper{
+    width:40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer-content h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 50px;
+
+}
+.footer-content h3{
+    font-size: 28px;
+}
+.footer-content h4{
+    font-size: 25px;
+    
+}
+
+.footer-content-service-name{
+    font-size: 20px;
+    color: dimgray;
+    padding-bottom: 18px;
+    font-weight: 500;
+}
+.footer-content-massege{
+    font-size:23px;
+    padding-bottom: 80px;
+}
+.footer-email{
+    background-image:linear-gradient(45deg, #EC4F91, tomato);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:white;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.copyright-text{
+    color:dimgray;
+}
